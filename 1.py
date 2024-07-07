@@ -1,1 +1,1 @@
-print("ye Lawde")
+print("pranil lawdya zop gp")
